@@ -19,7 +19,7 @@ Next, clone the ergouzi kaiguan repository:
 
 ## 视频使用教程    
 Video usage tutorial    
-[视频使用教程]([https://space.bilibili.com/19723588?spm_id_from=333.1007.0.0](https://www.bilibili.com/video/BV1bT421677t/?vd_source=ab266c754171024c866a35bf8097094e))      
+[视频使用教程][([https://space.bilibili.com/19723588?spm_id_from=333.1007.0.0](https://www.bilibili.com/video/BV1bT421677t/?vd_source=ab266c754171024c866a35bf8097094e))](https://www.bilibili.com/video/BV1bT421677t/?vd_source=ab266c754171024c866a35bf8097094e)      
 
 ## 节点介绍
 Node Introduction
