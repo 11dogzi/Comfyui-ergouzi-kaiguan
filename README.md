@@ -17,36 +17,44 @@ Next, clone the ergouzi kaiguan repository:
 
 ```git clone https://github.com/11dogzi/Comfyui-ergouzi-kaiguan.git```
 
-## 节点介绍   
-## 全局开关节点："Universal switch▶️"    
-通过节点右键菜单选项卡进行开关设置，对全局的节点组进行开关方案的勾选，多个"Universal switch▶️"节点建立时，将会每次仅打开的节点生效，防止开关冲突！
+## 节点介绍
+Node Introduction
+## 通用开关节点："Universal switch▶️"    
+通过节点右键菜单选项卡进行开关设置，对全局的节点组进行开关方案的勾选，多个"Universal switch▶️"节点建立时，将会每次仅打开的节点生效，防止开关冲突   
+Set the switch through the right-click menu tab of the node, select the switch scheme for the global node group, and use multiple"Universal switch▶️"options When a node is established, only the opened nodes will take effect each time to prevent switch conflicts    
 ![灵仙儿和二狗子](docs/全局开关.png "全局开关")    
 ![灵仙儿和二狗子](docs/全局开关1.png "全局开关1")    
 
 ## 连线开关节点："All Ignore👁️‍🗨️▶️"    
 当该节点连接"ALL🚫👁️‍🗨️"时，则对当前节点连接的"ALL🚫👁️‍🗨️"所在组进行忽略处理，可连接多个"ALL🚫👁️‍🗨️"控制多组    
+When the node is connected to"ALL🚫👁️‍🗨️"When, the"ALL🚫👁️‍🗨️"connected to the current node"ALL🚫👁️‍🗨️"Ignore the group and connect multiple"ALL🚫👁️‍🗨️"Control multiple groups    
 ![灵仙儿和二狗子](docs/连线忽略.png "连线忽略")       
 
 ## 连线开关节点："All Disable🚫"    
 当该节点连接"ALL🚫👁️‍🗨️"时，则对当前节点连接的"ALL🚫👁️‍🗨️"所在组进行禁用处理，可连接多个"ALL🚫👁️‍🗨️"控制多组    
+When the node is connected to"ALL🚫👁️‍🗨️"When, the"ALL🚫👁️‍🗨️"connected to the current node"ALL🚫👁️‍🗨️"Disable the group to which you belong, multiple"ALL🚫👁️‍🗨️"connections can be made"ALL🚫👁️‍🗨️"Control multiple groups    
 ![灵仙儿和二狗子](docs/连线禁用.png "连线禁用")    
 
 ## 连线混合开关节点："Hybrid switch🔃"    
 当该节点连接"hulue🔃"时，则对当前节点连接的"hulue🔃"所在组进行忽略处理，当该节点连接"jin yong🔃"时，则对当前节点连接的"jin yong🔃"所在组进行禁用处理，可连接多个"jin yong🔃"或者"hulue🔃"进行混合控制    
+When the node is connected to"hulue🔃"，The "hulue🔃" of the current node connection Ignore the group you belong to，When the node connects to"jin yong🔃"，The"jin yong🔃"connected to the current node Disable the group in which it belongs，Can connect multiple "jin yong🔃" Or "hulue🔃" Perform mixed control
 ![灵仙儿和二狗子](docs/连线混合.png "连线混合")     
 
-## 开关点示例：    
+## 开关点示例： 
+Example of switch points
 ![灵仙儿和二狗子](docs/开关点.png "开关点")   
 
 ## 开关名称设置：    
+Switch name setting
 ![灵仙儿和二狗子](docs/连线式开关.png "连线式开关")    
 ![灵仙儿和二狗子](docs/开关名称修改.png "开关名称修改")    
 
 ## 功能节点："Recursive switching🔀"    
 输入N个输入，对第一个非空值进行输出，可以设置需要切换的输入数量以及记录每个输入点名称    
+Input N inputs and output the first non null value. You can set the number of inputs to switch and record the name of each input point
 ![灵仙儿和二狗子](docs/任意切换.png "任意切换")    
 ![灵仙儿和二狗子](docs/任意切换1.png "任意切换1")    
-![灵仙儿和二狗子](docs/任意切换2.png "任意切换2")    
+![灵仙儿和二狗子](docs/任意切换3.png "任意切换3")    
 
 
 
