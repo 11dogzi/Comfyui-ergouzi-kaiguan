@@ -41,11 +41,11 @@ When the node is connected to"hulue🔃"，The "hulue🔃" of the current node c
 ![灵仙儿和二狗子](docs/连线混合.png "连线混合")     
 
 ## 开关点示例： 
-Example of switch points
+Example of switch points    
 ![灵仙儿和二狗子](docs/开关点.png "开关点")   
 
 ## 开关名称设置：    
-Switch name setting
+Switch name setting    
 ![灵仙儿和二狗子](docs/连线式开关.png "连线式开关")    
 ![灵仙儿和二狗子](docs/开关名称修改.png "开关名称修改")    
 
@@ -55,6 +55,17 @@ Input N inputs and output the first non null value. You can set the number of in
 ![灵仙儿和二狗子](docs/任意切换.png "任意切换")    
 ![灵仙儿和二狗子](docs/任意切换1.png "任意切换1")    
 ![灵仙儿和二狗子](docs/任意切换3.png "任意切换3")    
+
+
+## 更多SD免费教程
+More SD free tutorials   
+灵仙儿和二狗子的Bilibili空间，欢迎访问：   
+Bilibili space for Lingxian'er and Ergouzi, welcome to visit:   
+[灵仙儿二狗子的Bilibili空间](https://space.bilibili.com/19723588?spm_id_from=333.1007.0.0)   
+欢迎加入我们的QQ频道，点击这里进入：   
+Welcome to our QQ channel, click here to enter:   
+[二狗子的QQ频道](https://pd.qq.com/s/3d9ys5wpr)   
+![LOGO](docs/LOGO1.png "LOGO1")![LOGO](docs/LOGO1.png "LOGO1")![LOGO](docs/LOGO1.png "LOGO1") 
 
 
 
