@@ -28,7 +28,8 @@ class EGRYDZQHNode:
     @classmethod
     def INPUT_TYPES(cls):
         return {
-            "required": {f"input{i}": (any_type,) for i in range(1, 3)},
+            "required": {},
+            "optional": {f"input{i}": (any_type,) for i in range(1, 3)},
         }
 
     RETURN_TYPES = (any_type,)
