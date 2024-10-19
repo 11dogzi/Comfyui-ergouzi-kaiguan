@@ -17,15 +17,20 @@ Next, clone the ergouzi kaiguan repository:
 
 ```git clone https://github.com/11dogzi/Comfyui-ergouzi-kaiguan.git```
 
-## 更新日志
+## 更新日志    
+Update log
 2024/10/20新增任务管理器节点     
-节点式输入需要执行的任务数量进行执行或取消    
+New Task Manager Node Added on October 20, 2024    
+节点式输入需要执行的任务数量进行执行或取消，实时刷新当前任务数量与完成数量     
+Node based input is used to execute or cancel the number of tasks that need to be executed, and the current task count and completion count are refreshed in real-time    
 ![灵仙儿和二狗子](docs/任务管理器.png "任务管理器")     
 
 任务进行中动画小狗    
+Task in progress animated puppy    
 ![灵仙儿和二狗子](docs/任务进行动画.png "任务进行动画")      
 
 可以点击声音设置进行任务完成提示音设置    
+You can click on the sound settings to set the task completion prompt sound    
 ![灵仙儿和二狗子](docs/声音设置.png "声音设置")      
 
 ## 视频使用教程    
