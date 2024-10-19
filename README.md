@@ -17,6 +17,17 @@ Next, clone the ergouzi kaiguan repository:
 
 ```git clone https://github.com/11dogzi/Comfyui-ergouzi-kaiguan.git```
 
+## 更新日志
+2024/10/20新增任务管理器节点     
+节点式输入需要执行的任务数量进行执行或取消    
+![灵仙儿和二狗子](docs/任务管理器.png "任务管理器")     
+
+任务进行中动画小狗    
+![灵仙儿和二狗子](docs/任务进行动画.png "任务进行动画")      
+
+可以点击声音设置进行任务完成提示音设置    
+![灵仙儿和二狗子](docs/声音设置.png "声音设置")      
+
 ## 视频使用教程    
 Video usage tutorial    
 [视频使用教程][开关节点使用视频教程](https://www.bilibili.com/video/BV1bT421677t/?vd_source=ab266c754171024c866a35bf8097094e)      
