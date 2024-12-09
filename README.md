@@ -19,6 +19,14 @@ Next, clone the ergouzi kaiguan repository:
 
 ## 更新日志    
 Update log
+2024/12/09新增桌宠编辑器    
+2024/12/09 Added Table Pet Editor       
+在执行任务时播放自定义gif动画     
+Play custom GIF animations during task execution     
+![灵仙儿和二狗子](docs/桌宠编辑器1.png "桌宠编辑器1")  
+![灵仙儿和二狗子](docs/桌宠编辑器2.png "桌宠编辑器2")  
+![灵仙儿和二狗子](docs/桌宠编辑器3.png "桌宠编辑器3")  
+Update log
 2024/10/20新增任务管理器节点     
 New Task Manager Node Added on October 20, 2024    
 节点式输入需要执行的任务数量进行执行或取消，实时刷新当前任务数量与完成数量     
