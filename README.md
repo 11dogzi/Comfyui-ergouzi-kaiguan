@@ -36,7 +36,7 @@ New Task Manager Node Added on October 20, 2024
 Node based input is used to execute or cancel the number of tasks that need to be executed, and the current task count and completion count are refreshed in real-time    
 ![灵仙儿和二狗子](docs/任务管理器.png "任务管理器")     
 
-任务进行中动画小狗    
+任务进行中动画小狗（小狗可以通过长按鼠标滚轮进行拖动Puppies can be dragged by long pressing the mouse wheel）        
 (如果你不需要这个功能可以删除Comfyui-ergouzi-kaiguan\web中的kaiguanj.js文件\如果你使用的是2025年2月2日前的版本，还需要删除Comfyui\web\extensions\EG_KG)     
 If you don't need this feature, you can delete the kaiguanj.js file in Comfyui-ergouzi-kaiguan\web\kaiguanj.js. If you are using a version before February 2, 2025, you also need to remove Comfyui\web\extensions\EG_KG    
 Task in progress animated puppy    
