@@ -18,7 +18,10 @@ Next, clone the ergouzi kaiguan repository:
 ```git clone https://github.com/11dogzi/Comfyui-ergouzi-kaiguan.git```
 
 ## 更新日志    
-Update log
+Update log    
+
+2025/2/20修正连线组开关ture为启用/flase为禁用     
+On May 2, 2023, the wiring group switch 'ture' was enabled and 'flash' was disabled    
 2024/12/09新增桌宠编辑器    
 2024/12/09 Added Table Pet Editor       
 在执行任务时播放自定义gif动画     
@@ -34,6 +37,8 @@ Node based input is used to execute or cancel the number of tasks that need to b
 ![灵仙儿和二狗子](docs/任务管理器.png "任务管理器")     
 
 任务进行中动画小狗    
+(如果你不需要这个功能可以删除Comfyui-ergouzi-kaiguan\web中的kaiguanj.js文件\如果你使用的是2025年2月2日前的版本，还需要删除Comfyui\web\extensions\EG_KG)     
+If you don't need this feature, you can delete the kaiguanj.js file in Comfyui-ergouzi-kaiguan\web\kaiguanj.js. If you are using a version before February 2, 2025, you also need to remove Comfyui\web\extensions\EG_KG    
 Task in progress animated puppy    
 ![灵仙儿和二狗子](docs/任务进行动画.png "任务进行动画")      
 
